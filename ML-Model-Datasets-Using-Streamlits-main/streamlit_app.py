@@ -881,7 +881,7 @@ if __name__ == "__main__":
 
     # Call function to display the background image with opacity
     display_background_image(
-        "https://miro.medium.com/v2/resize:fit:1358/1*cG6U1qstYDijh9bPL42e-Q.jpeg",
+        "https://postimg.cc/HcQdNdGn",
         0.8,
     )
 
