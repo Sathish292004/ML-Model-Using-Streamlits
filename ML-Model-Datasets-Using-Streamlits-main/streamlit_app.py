@@ -881,7 +881,7 @@ if __name__ == "__main__":
 
     # Call function to display the background image with opacity
     display_background_image(
-        "https://postimg.cc/HcQdNdGn",
+        "https://i.postimg.cc/76RhfZm3/1-1024x512.jpg",
         0.8,
     )
 
