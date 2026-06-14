@@ -202,7 +202,7 @@ This project helped me learn:
 
 # 👨‍💻 Author
 
-### Sathish Kumar
+### Sathish Kumar B
 
 Java & Machine Learning Enthusiast
 
